@@ -10,3 +10,4 @@ A simple Python script to monitor the current Bitcoin price using the Coindesk A
 ## Installation
 ```bash
 pip install -r requirements.txt
+
